@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## GitHub Pages site for zonzorp
 
-You can use the [editor on GitHub](https://github.com/zonzorp/zonzorp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site hosts files and documents for use with the courses I teach for Georgian College
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently teach the following courses.
 
-### Markdown
+Undergrad:
+1. COMP2018 Linux System Administration [Outline](http://georgiancollege.ca/course-outlines/COMP/2018/fall/2017/) [Materials](https://zonzorp.github.io/COMP2018/)
+1. COMP1071 Linux Network Administration [Outline](http://georgiancollege.ca/course-outlines/COMP/1071/fall/2017/) [Materials](https://zonzorp.github.io/COMP1071/)
+1. COMP2101 Administrative Shell Scripting [Outline](http://georgiancollege.ca/course-outlines/COMP/2101/fall/2017/) [Materials](https://zonzorp.github.io/COMP2101/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zonzorp/zonzorp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Postgrad:
+1. NETS1028 Linux Systems Security [Outline](http://georgiancollege.ca/course-outlines/NETS/1028/fall/2017/) [Materials](https://zonzorp.github.io/NETS1028/)
+1. NETS1037 Monitoring and Log Management [Outline](http://georgiancollege.ca/course-outlines/NETS/1037/fall/2017/) [Materials](https://zonzorp.github.io/NETS1037/)
