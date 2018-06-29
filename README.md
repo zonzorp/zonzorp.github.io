@@ -13,3 +13,5 @@ I currently teach the following courses.
 * NETS1028 Linux Systems Security [Outline](http://georgiancollege.ca/course-outlines/NETS/1028/fall/2017/) / [Materials](https://zonzorp.github.io/NETS1028/)
 * NETS1032 Digital Forensics [Outline](http://georgiancollege.ca/course-outlines/NETS/1032/winter/2018/) / [Materials](https://zonzorp.github.io/NETS1032/)
 * NETS1037 Monitoring and Log Management [Outline](http://georgiancollege.ca/course-outlines/NETS/1037/fall/2017/) / [Materials](https://zonzorp.github.io/NETS1037/)
+
+Additional resources can be found on my [list of helpful online courses, tutorials, and intros](ITResources).
