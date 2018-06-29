@@ -2,6 +2,7 @@
 
 These sites provide useful and interesting info, tutorials, and references.
 
+* [Ryan's Tutorials for Linux command line basics and more](ryanstutorials.net)
 * [How to move LXD containers from one server to another](https://www.cyberciti.biz/faq/how-to-movemigrate-lxd-vm-to-another-host-on-linux/)
 * [Setting up a gitlab server](https://www.linux.com/learn/how-run-your-own-git-server)
 * [Gitlab install info from gitlab.com](https://about.gitlab.com/installation/#ubuntu)
