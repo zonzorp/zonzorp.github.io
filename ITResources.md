@@ -3,6 +3,10 @@
 These sites provide useful and interesting info, tutorials, and references.
 
 * [Ryan's Tutorials for Linux command line basics and more](ryanstutorials.net)
+* [KVM Server Setup on Ubuntu](https://linuxnewbieguide.org/how-to-setup-a-kvm-server-the-fast-way/)
+* [Bridge Setup using nmcli](https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/)
+* [How to Install Virtualbox in Linux](https://itsfoss.com/install-virtualbox-ubuntu/)
+* [How to install Virtualbox guest additions on Ubuntu](https://itsfoss.com/virtualbox-guest-additions-ubuntu/)
 * [Excellent discussion aboout why encryption backdoors for law enforcement are a Bad Thing](https://aliceevebob.com/2017/03/27/the-backdoor-fallacy-explaining-it-slowly-for-governments/)
 * [Ubuntu Tutorials](https://tutorials.ubuntu.com)
 * [How to set up Unbuntu 18.04 server with LXD/LXC containers](https://www.youtube.com/watch?v=5llPvZTuy5s)
@@ -18,4 +22,4 @@ These sites provide useful and interesting info, tutorials, and references.
 * [OwnCloud](https://owncloud.org)
 * [ElasticSearch training schedule](https://training.elastic.co/location/VirtualTimeZone_CST/CDT)
 
-I run none of these.
+I manage none of these websites, and I am not in any way affiliated with them personally.
