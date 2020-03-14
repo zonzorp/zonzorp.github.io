@@ -3,6 +3,7 @@
 These sites provide useful and interesting info, tutorials, and references.
 
 * [Ryan's Tutorials for Linux command line basics and more](ryanstutorials.net)
+* [Video playlist with basic tutorials for using CentOS8](https://www.youtube.com/playlist?list=PLTGb7Fhy-jx_z9CMD8Vb0uVXYjlWXJirn)
 * [KVM Server Setup on Ubuntu](https://linuxnewbieguide.org/how-to-setup-a-kvm-server-the-fast-way/)
 * [Bridge Setup using nmcli](https://www.cyberciti.biz/faq/how-to-add-network-bridge-with-nmcli-networkmanager-on-linux/)
 * [How to Install Virtualbox in Linux](https://itsfoss.com/install-virtualbox-ubuntu/)
