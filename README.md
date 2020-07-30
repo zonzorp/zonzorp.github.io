@@ -11,6 +11,7 @@ I currently teach the following courses.
 
 ### Postgrad:
 * NETS1028 Linux Systems Security [Materials](https://zonzorp.github.io/NETS1028/)
+* NETS1035 Applied Cryptography [Materials](NETS1035/)
 * NETS1032 Digital Forensics [Materials](https://zonzorp.github.io/NETS1032/)
 * NETS1037 Monitoring and Log Management [Materials](https://zonzorp.github.io/NETS1037/)
 
