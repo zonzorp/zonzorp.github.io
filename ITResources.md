@@ -22,5 +22,6 @@ These sites provide useful and interesting info, tutorials, and references.
 * [EdX Redhat courses](https://www.edx.org/school/red-hat)
 * [OwnCloud](https://owncloud.org)
 * [ElasticSearch training schedule](https://training.elastic.co/location/VirtualTimeZone_CST/CDT)
+* [YAML Basics](https://linuxhandbook.com/yaml-basics/)
 
 I manage none of these websites, and I am not in any way affiliated with them personally.
