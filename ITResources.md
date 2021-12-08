@@ -23,5 +23,6 @@ These sites provide useful and interesting info, tutorials, and references.
 * [OwnCloud](https://owncloud.org)
 * [ElasticSearch training schedule](https://training.elastic.co/location/VirtualTimeZone_CST/CDT)
 * [YAML Basics](https://linuxhandbook.com/yaml-basics/)
+* [Installation section of Homebrew Documentation for putting homebrew on a Mac](https://docs.brew.sh/Installation)
 
 I manage none of these websites, and I am not in any way affiliated with them personally.
