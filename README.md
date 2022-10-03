@@ -19,4 +19,4 @@ Additional resources can be found on this [list of helpful online courses, tutor
 
 If you are thinking about learning skills with computers, networking, or security, take a few minutes and read [Brian Krebs' remarks about acquiring computing/networking/security skills](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/).
 
-The next time you see me swearing about password policies, please [refer to this article](https://www.malwarebytes.com/blog/news/2022/10/why-almost-everything-we-told-you-about-passwords-was-wrong) which articulates something I have been saying for quite some time.
+The next time you see me swearing about password policies, please [refer to this article](https://www.malwarebytes.com/blog/news/2022/10/why-almost-everything-we-told-you-about-passwords-was-wrong) which articulates something I have been saying for several years now.
